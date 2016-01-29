@@ -11,5 +11,5 @@
 
 1. Rendez vous sur [SportChrono.com](https://evenements.sportchrono.com/)
 2. Dans la liste des événements, cliquez sur le vôtre
-3. À droite du nom de votre événements, cliquez sur "Sommaire" (il est possible que vous deviez rafraîchir la page pour que le bouton s'affiche)
+3. À droite du nom de votre événement, cliquez sur "Sommaire" (il est possible que vous deviez rafraîchir la page pour que le bouton s'affiche)
 4. Vous y trouverez le nombre de participants inscris, la somme amassée jusqu'à maintenant ainsi que la liste des inscriptions. Vous aurez aussi la possibilité de télécharger la liste des inscriptions en format Excel.
