@@ -7,7 +7,7 @@
 3. Entrez votre adresse courriel, prénom, nom et mot de passe (ce dernier doit avoir au-moins 8 caractères)
 4. Envoyez-nous un courriel pour confirmer la création de votre compte
 
-## Accéder aux données de votre course
+## Accéder aux données de votre événement
 
 1. Rendez vous sur [SportChrono.com](https://evenements.sportchrono.com/)
 2. Dans la liste des événements, cliquez sur le vôtre
